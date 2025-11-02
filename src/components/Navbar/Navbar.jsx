@@ -81,7 +81,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="www.linkedin.com/in/dinesh-prabhakaran-827690229"
+            href="https://www.linkedin.com/in/dinesh-prabhakaran-827690229"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -132,7 +132,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="www.linkedin.com/in/dinesh-prabhakaran-827690229"
+                href="https://www.linkedin.com/in/dinesh-prabhakaran-827690229"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
