@@ -39,7 +39,7 @@ const Footer = () => {
           {[
             {
               icon: <FaLinkedin />,
-              link: "www.linkedin.com/in/dinesh-prabhakaran-827690229",
+              link: "https://www.linkedin.com/in/dinesh-prabhakaran-827690229",
             },
             {
               icon: <FaGithub />,
